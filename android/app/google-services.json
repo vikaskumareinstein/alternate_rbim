@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020608007982",
+    "project_id": "rbim-d9d48",
+    "storage_bucket": "rbim-d9d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020608007982:android:a879c750847dcd02b8b4bf",
+        "android_client_info": {
+          "package_name": "com.rbim.alternate_rbim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaqIhrknjNMIoKOXdVGlPx-ER8nz7bzDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
