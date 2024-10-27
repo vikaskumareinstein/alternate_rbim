@@ -1,4 +1,4 @@
-package com.example.alternate_rbim
+package com.rbim.revivalchurch
 
 import io.flutter.embedding.android.FlutterActivity
 

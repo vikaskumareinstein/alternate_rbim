@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1020608007982:android:a879c750847dcd02b8b4bf",
+        "mobilesdk_app_id": "1:1020608007982:android:7855171a3e54a7a1b8b4bf",
         "android_client_info": {
-          "package_name": "com.rbim.alternate_rbim"
+          "package_name": "com.rbim.revivalchurch"
         }
       },
       "oauth_client": [],
